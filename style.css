@@ -1,0 +1,48 @@
+h1{
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    height: 60px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+
+.p1
+{
+    background-color: grey;
+    margin: 30px;
+    font-size: 30;
+    padding: 20px;
+    overflow-y: auto;
+    display: inline-block;
+    height: 400px;
+
+}
+img{
+    display: inline-block;
+}
+h2{
+    color: brown;
+}
+.p2
+{
+    background-color: grey;
+    margin: 30px;
+    font-size: 30;
+    padding: 20px;
+    overflow-y: auto;
+    display: inline-block;
+    height: 400px;
+
+
+}
+.p3
+{
+    background-color: grey;
+    margin: 30px;
+    font-size: 30;
+    padding: 20px;
+    overflow-y: auto;
+    display: inline-block;
+    height: 400px;
+}
